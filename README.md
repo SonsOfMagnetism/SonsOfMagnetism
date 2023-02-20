@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on Taste Tracker
 - 🌱 I’m currently learning Python/Django
+- 📫 How to reach me: <rsj510@gmail.com> || [Linkedin](https://www.linkedin.com/in/rene-santiago/)
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: <rsj510@gmail.com> || [Linkedin](https://www.linkedin.com/in/rene-santiago/)
 <!-- - ⚡ Fun fact: ... -->
 
 # 💻 Tech Stack:
