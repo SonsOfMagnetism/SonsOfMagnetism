@@ -15,6 +15,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonsofmagnetism&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Rene Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonsofmagnetism&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
