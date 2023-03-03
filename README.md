@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Taste Tracker
-- 🌱 I’m currently learning Python/Django
+- 🔭 I’m currently working on photo-portfolio
+- 🌱 I’m currently learning Vue
 - 📫 How to reach me: <rsj510@gmail.com>
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
